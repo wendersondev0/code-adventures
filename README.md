@@ -31,7 +31,7 @@ Feel free to explore, contribute, or use this repository as a source of inspirat
 
 **Note:** This repository represents my learning and growth as a developer. I’m excited to share this journey with you!
 
-##Português
+## Português
 
 # Aventuras de Código
 
