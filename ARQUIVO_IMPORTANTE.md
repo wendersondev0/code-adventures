@@ -1,0 +1,1 @@
+Se leu é porque é GAY!!!!
